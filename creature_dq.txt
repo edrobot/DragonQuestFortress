@@ -3,7 +3,7 @@ creature_dq
 [OBJECT:CREATURE]
 
 [CREATURE:SLIME]
-	[DESCRIPTION:A strange shapeless life form with an blue leathery skin containing a liquid interior.  It can secrete its internal fluid.]
+	[DESCRIPTION:A small, blue, teardrop-shaped blob with two eyes and a big smiley face.]
 	[NAME:slime:slimes:slime]
 	[CASTE_NAME:slime:slimes:slime]
 	[CREATURE_TILE:'o'][COLOR:1:0:1]
